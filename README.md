@@ -57,4 +57,6 @@ Casos intermediários ou omissos da rubrica serão decididos pelo professor.
 
 Se você precisar gerar mais de uma imagem de `debug` para demonstrar como seu programa funciona, as exiba usando a função `cv2.imshow`.
 
+# Demonstração do código em funcionamento:
+![Descrição do GIF](./img/app_demo.gif)
 
